@@ -1,0 +1,12 @@
+c:\users\jonathan.diaz\documents\visual studio 2013\Projects\seleniumTest\seleniumTest\bin\Debug\seleniumTest.exe.config
+c:\users\jonathan.diaz\documents\visual studio 2013\Projects\seleniumTest\seleniumTest\obj\Debug\seleniumTest.csprojResolveAssemblyReference.cache
+c:\Users\jonathan.diaz\Documents\Visual Studio 2013\Projects\seleniumTest\seleniumTest\bin\Debug\seleniumTest.exe
+c:\Users\jonathan.diaz\Documents\Visual Studio 2013\Projects\seleniumTest\seleniumTest\bin\Debug\seleniumTest.pdb
+c:\Users\jonathan.diaz\Documents\Visual Studio 2013\Projects\seleniumTest\seleniumTest\bin\Debug\WebDriver.dll
+c:\Users\jonathan.diaz\Documents\Visual Studio 2013\Projects\seleniumTest\seleniumTest\bin\Debug\WebDriver.Support.dll
+c:\Users\jonathan.diaz\Documents\Visual Studio 2013\Projects\seleniumTest\seleniumTest\bin\Debug\WebDriver.xml
+c:\Users\jonathan.diaz\Documents\Visual Studio 2013\Projects\seleniumTest\seleniumTest\bin\Debug\WebDriver.Support.xml
+c:\Users\jonathan.diaz\Documents\Visual Studio 2013\Projects\seleniumTest\seleniumTest\obj\Debug\seleniumTest.exe
+c:\Users\jonathan.diaz\Documents\Visual Studio 2013\Projects\seleniumTest\seleniumTest\obj\Debug\seleniumTest.pdb
+c:\Users\jonathan.diaz\Documents\Visual Studio 2013\Projects\seleniumTest\seleniumTest\bin\Debug\nunit.framework.dll
+c:\Users\jonathan.diaz\Documents\Visual Studio 2013\Projects\seleniumTest\seleniumTest\bin\Debug\nunit.framework.xml
